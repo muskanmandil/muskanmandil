@@ -35,7 +35,8 @@
 
 ###
 
-<h4 align="left">I am a third-year undergraduate at IET-DAVV, specializing in Information Technology. I'm a Coder and UI/UX Designer always trying to learn new technologies and eager to contribute my technical skills and creativity to a collaborative environment.</h4>
+<h4 align="left">I am a third-year undergraduate at IET-DAVV, specializing in Information Technology.
+  <br> I'm a Coder and UI/UX Designer always trying to learn new technologies and eager to contribute my technical skills and creativity to a collaborative environment.</h4>
 
 ###
 
