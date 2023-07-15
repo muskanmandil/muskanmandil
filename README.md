@@ -9,16 +9,16 @@
 <br clear="both">
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/muskan-mandil/">
+  <a href="https://www.linkedin.com/in/muskan-mandil/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMSqTJPVMXtXQLdlGxRxHVpCrSVtRWTlRvNFqKmkPGllpqQFTkxwVVDKMTXlTSdbqZkllCL">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMSqTJPVMXtXQLdlGxRxHVpCrSVtRWTlRvNFqKmkPGllpqQFTkxwVVDKMTXlTSdbqZkllCL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail Badge"/>
   </a>
-  <a href="https://leetcode.com/muskan_mandil/">
+  <a href="https://leetcode.com/muskan_mandil/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=040505&logoColor=ea971a&labelColor=&style=for-the-badge" alt="Leetcode Badge"/>
   </a>
-  <a href="https://www.instagram.com/muskan.mandil/">
+  <a href="https://www.instagram.com/muskan.mandil/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram Badge"/>
   </a>
 </div>
