@@ -43,7 +43,7 @@
 <p align="left">I'm from Indore, MP.
 <br><br>- ⚡ With strong coding skills in C++, I am well-versed in Data Structures & Algorithms.
 <br>- 👩🏻‍💻 I have a solid understanding of Java and its Object-Oriented Programming concepts.
-<br>- 🌱 I am proficient in HTML/CSS, and I want to enhance my skill set further by diving into JavaScript and React.js in the upcoming months.
+<br>- 🌱 I am proficient in HTML,CSS & JavaScript and I want to enhance my skill set further by learning MERN Stack framework in the upcoming months.
 <br>- 🎨 Apart from coding, I am deeply fascinated by UX design and have hands-on experience in designing mobile applications and websites.
 </p>
 
@@ -66,9 +66,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
 
