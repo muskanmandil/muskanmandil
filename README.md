@@ -18,9 +18,6 @@
   <a href="https://leetcode.com/muskan_mandil/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=040505&logoColor=ea971a&labelColor=&style=for-the-badge" alt="Leetcode Badge"/>
   </a>
-  <a href="https://www.instagram.com/muskan.mandil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram Badge"/>
-  </a>
 </div>
 
 ###
@@ -35,16 +32,18 @@
 
 ###
 
-<h4 align="left">I am a third-year undergraduate at IET-DAVV, specializing in Information Technology.
-  <br> I'm a Coder and UI/UX Designer always trying to learn new technologies and eager to contribute my technical skills and creativity to a collaborative environment.</h4>
+<h4 align="left">🚀 Pre-final year undergraduate at IET-DAVV, specializing in Information Technology.
+  <br>✨ I'm a Front-end Developer and UI/UX Designer always trying to learn new technologies and eager to contribute my technical skills and creativity to a collaborative environment.</h4>
 
 ###
 
 <p align="left">I'm from Indore, MP.
-<br><br>- ⚡ With strong coding skills in C++, I am well-versed in Data Structures & Algorithms.
-<br>- 👩🏻‍💻 I have a solid understanding of Java and its Object-Oriented Programming concepts.
-<br>- 🌱 I am proficient in HTML,CSS & JavaScript and I want to enhance my skill set further by learning MERN Stack framework in the upcoming months.
-<br>- 🎨 Apart from coding, I am deeply fascinated by UX design and have hands-on experience in designing mobile applications and websites.
+<br><br>- 💻 Proficient in C++ with a strong foundation in Data Structures & Algorithms.
+<br>- 🌟 Skilled in front-end development, specializing in React.js framework. Have contributed to multiple projects and gained valuable experience in startup environments.
+<br>- 🎨 Passionate about UX design with hands-on experience in designing various applications and websites from scratch. 
+<br>- 👩🏻‍💻 Developed several projects independently, blending technical expertise with creative flair.
+<br>- 🌱 Eager to contribute technical skills and creativity to a collaborative environment. 
+<br>- Open to networking and new opportunities. Let's connect!
 </p>
 
 ###
@@ -65,6 +64,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
   <img width="12" />
