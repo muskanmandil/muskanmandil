@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">🚀 Pre-final year undergraduate at IET-DAVV, specializing in Information Technology.
+<h4 align="left">🚀 Final year student at IET-DAVV, specializing in Information Technology.
   <br>✨ I'm a Front-end Developer and UI/UX Designer always trying to learn new technologies and eager to contribute my technical skills and creativity to a collaborative environment.</h4>
 
 ###
@@ -63,8 +63,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
@@ -72,6 +70,12 @@
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="expressjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
