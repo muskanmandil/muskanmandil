@@ -9,11 +9,11 @@
 <br clear="both">
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/muskan-mandil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMSqTJPVMXtXQLdlGxRxHVpCrSVtRWTlRvNFqKmkPGllpqQFTkxwVVDKMTXlTSdbqZkllCL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muskan-mandil/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/muskan_mandil/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=040505&logoColor=ea971a&labelColor=&style=for-the-badge" alt="Leetcode Badge"/>
@@ -33,15 +33,14 @@
 ###
 
 <h4 align="left">🚀 Final year student at IET-DAVV, specializing in Information Technology.
-  <br>✨ I'm a Front-end Developer and UI/UX Designer always trying to learn new technologies and eager to contribute my technical skills and creativity to a collaborative environment.</h4>
+<br><br>✨ Seeking an intern/full-time opportunity in the software industry. Passionate about building impactful products and contributing through technical skills and design. As a fresher, eager to gain hands-on experience in a growth-oriented and challenging environment.</h4>
 
 ###
 
-<p align="left">I'm from Indore, MP.
-<br><br>- 💻 Proficient in C++ with a strong foundation in Data Structures & Algorithms.
-<br>- 🌟 Skilled in front-end development, specializing in React.js framework. Have contributed to multiple projects and gained valuable experience in startup environments.
-<br>- 🎨 Passionate about UX design with hands-on experience in designing various applications and websites from scratch. 
-<br>- 👩🏻‍💻 Developed several projects independently, blending technical expertise with creative flair.
+<p align="left">
+<br>- 💻 Proficient in C++ with a strong foundation in Data Structures & Algorithms. Familiar with Java and OOP concepts, with a solid understanding of all computer science fundamentals.
+<br>- 🌟 Skilled as a full stack developer with expertise in front-end development. Competent in React.js, Node.js, Express.js, and working with both MongoDB and SQL databases.
+<br>- 🎨 Passionate about UX design with hands-on experience in designing various applications from scratch. 
 <br>- 🌱 Eager to contribute technical skills and creativity to a collaborative environment. 
 <br>- Open to networking and new opportunities. Let's connect!
 </p>
@@ -57,17 +56,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -83,8 +78,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
+
 </div>
 
 ###
