@@ -32,8 +32,7 @@
 
 ###
 
-<h4 align="left">🚀 Final year student at IET-DAVV, specializing in Information Technology.
-<br><br>✨ Seeking an internship opportunity in the software industry. Passionate about building impactful products and contributing through technical skills and design. As a fresher, eager to gain hands-on experience in a growth-oriented and challenging environment.</h4>
+<h4 align="left">🚀 Final year student at IET-DAVV, specializing in Information Technology.</h4>
 
 ###
 
@@ -42,7 +41,7 @@
 <br>- 🌟 Skilled as a full stack developer with expertise in front-end development. Competent in React.js, Node.js, Express.js, and working with both MongoDB and SQL databases.
 <br>- 🎨 Passionate about UX design with hands-on experience in designing various applications from scratch. 
 <br>- 🌱 Eager to contribute technical skills and creativity to a collaborative environment. 
-<br>- Open to networking and new opportunities. Let's connect!
+<br>- Open to networking. Let's connect!
 </p>
 
 ###
